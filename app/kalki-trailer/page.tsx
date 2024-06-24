@@ -22,8 +22,8 @@ export default function KalkiTrailer() {
           <Image
             src="/Kalki Tel Thumbnail.jpg"
             alt="Kalki Tel"
-            height={200}
-            width={200}
+            height={500}
+            width={500}
             className={styles.imgOne}
           />
           <div className={styles.btnDiv}>
