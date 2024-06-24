@@ -42,8 +42,8 @@ export default function KalkiTrailer() {
           <Image
             src="/Kalki Hin Thumbnail.jpg"
             alt="Kalki Hin"
-            height={200}
-            width={200}
+            height={500}
+            width={500}
             className={styles.imgOne}
           />
           <div className={styles.btnDiv}>
